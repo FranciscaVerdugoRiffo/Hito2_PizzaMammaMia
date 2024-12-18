@@ -24,7 +24,7 @@ const Login = () => {
     } 
 
     // Si todas las validaciones pasan
-    setSuccess("Acceso exitoso! Bienvenido a Pizzería Mamma Mia.");
+    setSuccess("¡Acceso exitoso! Bienvenido a Pizzería Mamma Mia.");
     setError(""); // Limpiar error
 
     // Limpiar formulario (opcional)
