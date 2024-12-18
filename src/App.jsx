@@ -11,9 +11,11 @@ function App() {
     return (
         <section>
             <Navbar />
-            {/*<Home /> */}
-            {/*<Register /> */}
-            <Login />
+              <main >
+                {/*<Home />*/}
+                {/*<Register /> */}
+                <Login />
+              </main>
             <Footer />
         </section>
     );
